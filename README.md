@@ -23,7 +23,7 @@ Para o frontend, o básico é conseguir realizar a ação de disparar a jornada 
 - Documentação
 
 ## Entregável
-Espero um sistema funcional e documentado em:
+Link pro repositório público com o teste. Espero um sistema funcional e documentado em:
 - como executar localmente
 - como executar os testes unitários
 - setups específicos necessários para a execução
